@@ -1,3 +1,8 @@
+# About
+
+This was a class competition comprising of a total of 57 participants in which the above model in the file nn.py acquired a position of 7th place in the class. 
+
+
 # Objectives
 
 The learning objectives of this assignment are to:
